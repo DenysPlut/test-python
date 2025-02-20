@@ -1,10 +1,10 @@
-# ignore the following
+# Ignore virtual environments
+.venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore log files
 *.log
 *.ini
-cache/
-uploads/
-thumbs/
-docs/
-.htaccess
-*.swp
-*~
