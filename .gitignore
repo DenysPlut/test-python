@@ -1,0 +1,10 @@
+# ignore the following
+*.log
+*.ini
+cache/
+uploads/
+thumbs/
+docs/
+.htaccess
+*.swp
+*~
