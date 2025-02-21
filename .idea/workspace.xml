@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b59b2d73-9243-4483-9528-85567a581136" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/path/to/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/bin/python" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/bin/python3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/bin/python3.12" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/bin/python3.12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
