@@ -14,7 +14,7 @@ db_config = {
 }
 
 # Define the database name
-DB_NAME = config["mysql"]["database"]
+DB_NAME = config["mysql"]["acme"]
 
 # Define table schema
 TABLES = {}
