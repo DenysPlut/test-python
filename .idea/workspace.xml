@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b59b2d73-9243-4483-9528-85567a581136" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dictionary_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonScriptProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonScriptProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_internal/operations/install/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_internal/operations/install/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_internal/req/req_uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/distlib/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/distlib/compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/distlib/manifest.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/distlib/manifest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/distlib/scripts.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/distlib/scripts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/distlib/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/distlib/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/pygments/cmdline.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/pygments/cmdline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/_mapping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/rich/highlighter.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/rich/highlighter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/rich/traceback.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/rich/traceback.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/typing_extensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/path/to/venv/lib/python3.12/site-packages/pip/_vendor/typing_extensions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
