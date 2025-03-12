@@ -2,7 +2,7 @@ from heroofukraine import *
 
 #----------------------main------------------------------------------
 
-hero1 = HeroOfUkraine('Roman',5, 'on Donbass', 12 )
+hero1 = HeroOfUkraine('Roman',5, 'on Donbas', 12 )
 hero2 = HeroOfUkraine('Viktor', 34, 'on Zaporizhzhya', 37)
 
 hero1.show_heroOfUkraine()
