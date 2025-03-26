@@ -1,0 +1,11 @@
+Beginners : Coding
+Beginners : Reading
+Beginners : Errorhandling
+Beginners : Tracing
+Beginners : Classless mode
+Beginners : Building lists
+Beginners : Functions
+Beginners : Modules
+Beginners : Variables
+Beginners : Tuples
+Beginners : JSON
