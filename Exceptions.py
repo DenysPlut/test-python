@@ -10,6 +10,7 @@ while True:
    except Exception:
        print("Inside EXCEPT")
        print("Error FOUND!")
+       print(sys.exc_info()[1])
        filename = input("Enter correct filename! : ")
    else:
        print("Inside ELSE")
