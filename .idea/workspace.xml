@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b59b2d73-9243-4483-9528-85567a581136" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JSON.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.py" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     "Python.Files.executor": "Run",
     "Python.Functions.executor": "Run",
     "Python.Functions1.executor": "Run",
+    "Python.JSON.executor": "Run",
     "Python.Lists2.executor": "Run",
     "Python.Loops.executor": "Run",
     "Python.Numbers.executor": "Run",
