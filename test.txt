@@ -1,0 +1,43 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5C54-F82B
+
+ Directory of C:\Users\User\PycharmProjects\PythonScriptProject
+
+27.03.2025  12:14    <DIR>          .
+18.02.2025  15:25    <DIR>          ..
+21.02.2025  21:21               138 .gitignore
+27.03.2025  12:11    <DIR>          .idea
+21.02.2025  16:38    <DIR>          .venv
+12.03.2025  11:56                90 activemodules.py
+27.03.2025  12:14               324 Arguments.py
+12.03.2025  17:04               330 classes.py
+12.03.2025  18:57               294 classes2.py
+19.02.2025  18:33                 0 Conditionals.py
+20.02.2025  16:01                86 config.ini
+21.02.2025  22:16             1ÿ946 database.py
+23.02.2025  21:04               393 Dictionary_lists.py
+26.03.2025  19:16               547 Exceptions.py
+25.03.2025  21:03               432 Files.py
+10.03.2025  21:11               450 Functions.py
+11.03.2025  20:25               555 Functions1.py
+18.02.2025  15:35                56 helloworld.py
+12.03.2025  19:04             2ÿ150 heroofukraine.py
+27.03.2025  09:46             1ÿ048 JSON.py
+26.03.2025  12:21               250 Lesson_List.txt
+18.02.2025  21:40                 0 Lists.py
+19.02.2025  18:24               594 Lists2.py
+18.02.2025  22:10               628 Loops.py
+12.03.2025  11:49               132 modules.py
+25.03.2025  21:03                55 mynames.txt
+25.03.2025  20:24               178 names.txt
+18.02.2025  20:24                71 Numbers.py
+19.02.2025  20:34    <DIR>          path
+23.02.2025  20:35               994 qodana.yaml
+20.02.2025  15:36                 0 readme.md
+18.02.2025  19:48               269 Strings.py
+27.03.2025  12:14                 0 test.txt
+27.03.2025  12:14               178 users.txt
+18.02.2025  19:13               192 Variables.py
+12.03.2025  19:04    <DIR>          __pycache__
+              30 File(s)         12ÿ380 bytes
+               6 Dir(s)  94ÿ891ÿ151ÿ360 bytes free
