@@ -3,10 +3,10 @@
 
  Directory of C:\Users\User\PycharmProjects\PythonScriptProject
 
-27.03.2025  12:14    <DIR>          .
+29.03.2025  19:39    <DIR>          .
 18.02.2025  15:25    <DIR>          ..
 21.02.2025  21:21               138 .gitignore
-27.03.2025  12:11    <DIR>          .idea
+29.03.2025  19:32    <DIR>          .idea
 21.02.2025  16:38    <DIR>          .venv
 12.03.2025  11:56                90 activemodules.py
 27.03.2025  12:14               324 Arguments.py
@@ -34,10 +34,11 @@
 19.02.2025  20:34    <DIR>          path
 23.02.2025  20:35               994 qodana.yaml
 20.02.2025  15:36                 0 readme.md
+29.03.2025  19:39               319 RegEx.py
 18.02.2025  19:48               269 Strings.py
-27.03.2025  12:14                 0 test.txt
+29.03.2025  19:39                 0 test.txt
 27.03.2025  12:14               178 users.txt
 18.02.2025  19:13               192 Variables.py
 12.03.2025  19:04    <DIR>          __pycache__
-              30 File(s)         12ÿ380 bytes
-               6 Dir(s)  94ÿ891ÿ151ÿ360 bytes free
+              31 File(s)         12ÿ699 bytes
+               6 Dir(s)  72ÿ467ÿ079ÿ168 bytes free

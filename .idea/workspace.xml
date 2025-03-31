@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b59b2d73-9243-4483-9528-85567a581136" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/RegEx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/RegEx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,36 +45,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Python.Arguments.executor": "Run",
-    "Python.Exceptions.executor": "Run",
-    "Python.Files.executor": "Run",
-    "Python.Functions.executor": "Run",
-    "Python.Functions1.executor": "Run",
-    "Python.JSON.executor": "Run",
-    "Python.Lists2.executor": "Run",
-    "Python.Loops.executor": "Run",
-    "Python.Numbers.executor": "Run",
-    "Python.Setup.executor": "Run",
-    "Python.Strings.executor": "Run",
-    "Python.Variables.executor": "Run",
-    "Python.activemodules.executor": "Run",
-    "Python.classes.executor": "Run",
-    "Python.classes2.executor": "Run",
-    "Python.database.executor": "Run",
-    "Python.helloworld.executor": "Run",
-    "Python.setup.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.Arguments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Functions1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JSON.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegEx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Setup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.activemodules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database.executor&quot;: &quot;Run&quot;,
+    &quot;Python.helloworld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.setup.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Arguments">
+}</component>
+  <component name="RunManager" selected="Python.RegEx">
     <configuration name="Arguments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonScriptProject" />
       <option name="ENV_FILES" value="" />
@@ -162,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classes2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RegEx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonScriptProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RegEx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.RegEx" />
         <item itemvalue="Python.Arguments" />
         <item itemvalue="Python.JSON" />
         <item itemvalue="Python.Exceptions" />
         <item itemvalue="Python.Files" />
-        <item itemvalue="Python.classes2" />
       </list>
     </recent_temporary>
   </component>

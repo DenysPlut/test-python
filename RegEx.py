@@ -5,4 +5,8 @@ mytext = "User123, 1995, user123@example.com, Germany" \
          "User789, 2002, user789@domain.com, USA" \
          "User999, 1975, user999@web.net, Canada"
 
-textlookfor = ""
+
+textlookfor = r"[A-z][a-z]+"
+allresults = re.findall(textlookfor, mytext)
+
+print(allresults)
