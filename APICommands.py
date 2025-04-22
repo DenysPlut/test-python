@@ -1,6 +1,6 @@
 from urllib import request
 
-myUrl = "http://www.astahov.net"
+myUrl = "https://ukr.net"
 
 answer = request.urlopen(myUrl)
 
